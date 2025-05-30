@@ -1,6 +1,5 @@
-# React + Vite Template
+# React + Vite
 
-A modern React template for web applications and games, featuring React 18, Vite, TailwindCSS, and Material UI.
 
 ## Project Structure
 
